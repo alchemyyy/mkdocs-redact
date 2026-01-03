@@ -1,0 +1,2 @@
+[mkdocs.plugins]
+redact = plugin_redact:RedactPlugin

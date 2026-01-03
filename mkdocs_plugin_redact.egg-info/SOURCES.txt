@@ -1,0 +1,9 @@
+setup.py
+mkdocs_plugin_redact.egg-info/PKG-INFO
+mkdocs_plugin_redact.egg-info/SOURCES.txt
+mkdocs_plugin_redact.egg-info/dependency_links.txt
+mkdocs_plugin_redact.egg-info/entry_points.txt
+mkdocs_plugin_redact.egg-info/requires.txt
+mkdocs_plugin_redact.egg-info/top_level.txt
+plugin_redact/__init__.py
+plugin_redact/plugin.py
